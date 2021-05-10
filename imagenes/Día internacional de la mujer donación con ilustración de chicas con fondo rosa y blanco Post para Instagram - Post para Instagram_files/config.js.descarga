@@ -1,0 +1,3 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C0MA1TCP76SVVJ0V8VGG").setAdvancedMatchingAvailableProperties({"email":false,"phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C0MA1TCP76SVVJ0V8VGG").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C0MA1TCP76SVVJ0V8VGG").setPixelInfo({status: 0, name: "TikTok Pixel February 2021", advertiserID: "6855149763415769094", setupMode: 1, partner: ""});
